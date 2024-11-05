@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hiranur!
+- 👋 Hi, I’m Hira!
 - 👀 I’m interested in software,graphic design,photoshop
 - 🌱 I’m currently learning C#,Phyton
 - 💞️ I’m looking to collaborate on ...
